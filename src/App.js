@@ -3,7 +3,6 @@ import Navbar from "./components/Navbar";
 import Cards from "./components/Cards";
 import Filter from "./components/Filter";
 import Spinner from "./components/Spinner";
-import { ToastContainer } from "react-toastify";
 import { apiUrl, filterData } from "./data";
 import { useEffect } from "react";
 import { toast } from "react-toastify";
