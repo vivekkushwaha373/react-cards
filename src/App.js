@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Navbar from "./components/Navbar";
-import Card from "./components/Card";
 import Cards from "./components/Cards";
 import Filter from "./components/Filter";
 import Spinner from "./components/Spinner";
